@@ -1,0 +1,33 @@
+form{
+    margin: 3% 2%;
+}
+.form-check-input{
+    display: inline-block;
+    margin-right:10px;
+}
+.form-group{
+    background-color:white;
+    height:50%;
+    border-radius: 5px;
+    padding-bottom: 1%;
+}
+.ques{
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top:0.5%;
+    padding-left:1%;
+    margin-bottom:10px;
+}
+.options{
+    padding-bottom:1.2% ;
+    padding-left:1%;
+}
+button{
+    border:none;
+    border-radius: 2px;
+    background-color: #5635a8;
+    color: #ffffff;
+    text-align: center;
+    font-size: 1rem;
+    padding: 10px 30px;
+}
